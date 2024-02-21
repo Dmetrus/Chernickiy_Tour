@@ -4,7 +4,8 @@
   
 <h2>Схема моделей:</h2>
 
-![image](https://github.com/yozhikes/Tour_Midili/assets/106804366/24d8e65b-4462-4df6-a70f-fe1a9c4f5cf5)
+![image](https://github.com/Dmetrus/Chernickiy_Tour/assets/106806853/db2c8a17-9fd1-40ea-9292-91a074578a70)
+
                                                                                                          
 <h2>Диаграмма последовательности авторизации:</h2>
   
